@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570810308 source:/home/zeny/Documents/projects/shell/main.cpp
+	<iostream>
+	"stdio.h"
+	<string.h>
+	<unistd.h>
+	<time.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+
